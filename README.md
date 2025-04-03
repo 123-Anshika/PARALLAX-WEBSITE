@@ -5,7 +5,5 @@ Scrolling through a webpage shouldn’t be boring—it should be an experience! 
 
 This project helped me refine my web design skills and experiment with creative layouts. Excited to explore more interactive web experiences!
 
-Check it out here: [Your Website Link] 🌍
-
 Would love to hear your thoughts! Feedback is always welcome. 😊
 #WebDevelopment #ParallaxScrolling #HTML #CSS #UIUX
